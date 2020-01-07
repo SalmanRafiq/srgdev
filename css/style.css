@@ -195,16 +195,10 @@ nav ul {
    position: absolute;
    width:50vw;
    left: 49%;
-   top:100vh;
+   top:10vh;
    
 }
 
-.circle {
-	border-radius: 50%;
-	width: 200px;
-	height: 200px; 
-	/* width and height can be anything, as long as they're equal */
-}
 
 
 .skills .skill-item{
@@ -212,7 +206,8 @@ nav ul {
 }
 
 .skills div{
-    padding: .5em;
+    padding: 7em;
+    margin-top: 1em;
     height: 50px;    
 }
 
@@ -234,6 +229,13 @@ nav ul {
     cursor: pointer;
 }
 
+
+.circle {
+	border-radius: 50%;
+	width: 250px;
+	height: 250px; 
+	/* width and height can be anything, as long as they're equal */
+}
 
 /*Media Quries*/
 @media only screen and  (max-width:800px){
