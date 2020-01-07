@@ -250,6 +250,13 @@ nav ul {
     background-color : #fff; 
 }
 
+.socials{
+    font-family: inherit;
+    float: left;    
+    position: relative;
+    left: 33%;    
+}
+
 .skills>.skill-item{
   
 }
